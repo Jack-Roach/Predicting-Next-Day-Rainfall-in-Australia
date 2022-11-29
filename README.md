@@ -1,7 +1,7 @@
 # Predicting Next Day Rainfall in Australia - A Timed Hackathon
 ## By Jack Roach
 
-The following README was written by instrutors of General Assembly's Data Science Immersive Course. I'm keeping it here to provide context on this project.
+The following README was written by instructors of General Assembly's Data Science Immersive Course. I am keeping it here to provide context on this project.
 
 I worked for approximately five hours on this project.
 
