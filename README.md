@@ -5,6 +5,7 @@ The following README was written by instructors of General Assembly's Data Scien
 
 I worked for approximately five hours on this project.
 
+The dataset I used can be found on Kaggle [here](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package).
 
 # Hackathon Project 🚀
 
